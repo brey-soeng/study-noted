@@ -18,7 +18,7 @@ Authorization: Bearer <token>
 
 
 
-![](C:\Users\Administrator\OneDrive\note\study noted\laravel\images\jwt.png)
+![](https://i.loli.net/2021/06/29/FnbpCUiza6q3SmE.png)
 
 
 
