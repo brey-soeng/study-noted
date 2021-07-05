@@ -6,7 +6,7 @@
    -  [2021-06-02-laravel-code-style.md](https://github.com/brey-soeng/study-noted/blob/master/laravel/2021-06-02-laravel-code-style.md)
    -  [2021-06-02-laravel-larastan.md](https://github.com/brey-soeng/study-noted/blob/master/laravel/2021-06-02-laravel-larastan.md)
    -  [2021-06-03-laravel-crud-api-pattern.md](https://github.com/brey-soeng/study-noted/blob/master/laravel/2021-06-03-laravel-crud-api-pattern.md)
-   -  [2021-06-19- jwt-authentication.md](https://github.com/brey-soeng/study-noted/blob/master/laravel/2021-06-19- jwt-authentication.md)
+   -  [2021-06-19- jwt-authentication.md](https://github.com/brey-soeng/study-noted/blob/master/laravel/2021-06-19-%20jwt-authentication.md)
    -  [2021-07-02-laravel-swagger.md](https://github.com/brey-soeng/study-noted/blob/master/laravel/2021-07-02-laravel-swagger.md)
    -  [2021-07-05-laravel-websockets.md](https://github.com/brey-soeng/study-noted/blob/master/laravel/2021-07-05-laravel-websockets.md)
 2. [spring boot](https://github.com/brey-soeng/study-noted/tree/master/spring%20boot)
